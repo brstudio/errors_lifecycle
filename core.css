@@ -1,0 +1,163 @@
+a:link {
+    	color: black;
+}
+
+a:visited {
+   	color: black;
+}
+a:hover {
+    color: black;
+}
+
+a:active {
+    color: red;
+}
+
+.menu__item{
+	font-family: "Calibri";	
+	background: #DCDCDC ;
+	color: black;
+	word-spacing: 10px;	
+}
+
+.form__legend{
+	font-family: "Calibri";
+}
+
+.form__label{
+	font-family: "Calibri";
+}
+
+.__username{
+	font-family: "Calibri";	
+	background: #DCDCDC ;
+}
+
+.__h1{
+	font-family: "Calibri";
+	background: #9ACD32 ;
+}
+.new-user__h1{
+	font-family: "Calibri";
+	background: #9ACD32 ;
+}
+
+.users__h1{
+	font-family: "Calibri";
+	background: #9ACD32 ;
+}
+
+.users__table{
+	font-family: "Calibri";
+	background: #DCDCDC;
+	border-collapse: collapse;
+	border: 1px solid black;
+	padding: 5px;
+	
+}
+.user__table-top{
+	font-family: "Calibri";
+	background:  #F4A460;
+	border-collapse: collapse;
+	border: 1px solid black;
+	padding: 5px;
+}
+
+.table__row{
+	border: 1px solid black;
+	padding: 5px;
+}
+
+.new-user__item{
+	font-family: "Calibri";
+}
+
+.edit-user__items{
+	font-family: "Calibri";
+}
+
+.edit-user__h1{
+	font-family: "Calibri";
+	background: #9ACD32 ;
+}
+
+.edit-user__userid{
+	font-weight: bold;
+	font-family: "Calibri";
+}
+
+.errors__h1{
+	font-family: "Calibri";
+	background: #9ACD32 ;
+}
+
+.errors__table{
+	font-family: "Calibri";
+	background: #DCDCDC;
+	border-collapse: collapse;
+	border: 1px solid black;
+	padding: 5px;
+	
+}
+.errors__table-top{
+	font-family: "Calibri";
+	background:  #F4A460;
+	border-collapse: collapse;
+	border: 1px solid black;
+	padding: 5px;
+}
+
+.table__row{
+	border: 1px solid black;
+	padding: 5px;
+}
+
+.errors-edit__h1{
+	font-family: "Calibri";
+	background: #9ACD32 ;
+}
+
+.edit-errors__userid{
+	font-weight: bold;
+	font-family: "Calibri";
+}
+
+.edit-errors__items{
+	font-family: "Calibri";
+	margin-top: 10px;
+}
+
+.edit-errors__textarea{
+	font-family: "Calibri";
+	border: 1px solid black;
+}
+
+.errors-edit{
+	padding: 20px;
+
+}
+
+.new-error__h1{
+	font-family: "Calibri";
+	background: #9ACD32 ;
+}
+
+.new-errors__textarea{
+	font-family: "Calibri";
+	border: 1px solid black;
+}
+
+.new-errors__userid{
+	font-weight: bold;
+	font-family: "Calibri";
+}
+
+.new-errors__items{
+	font-family: "Calibri";
+	margin-top: 10px;
+}
+
+.__h1{
+	font-family: "Calibri";
+	background: #9ACD32 ;
+}
